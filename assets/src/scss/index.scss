@@ -1,0 +1,9 @@
+@import "./colors";
+@import "./fonts";
+@import "./sizes";
+
+* {
+    margin: $neutro;
+    padding: $neutro;
+    box-sizing: border-box;
+}
